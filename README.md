@@ -17,14 +17,12 @@
 
 ### projects
 
-| name | stack |
-|------|-------|
-| [vnyl](https://github.com/christhecreator56/vnyl) ⭐ | HTML |
-| [Project_AURA](https://github.com/christhecreator56/Project_AURA) | Python |
-| [pannel_pro](https://github.com/christhecreator56/pannel_pro) | TypeScript |
-| [Sevagan](https://github.com/christhecreator56/Sevagan---Multilingual-service-app-) | JavaScript |
-| [YATRA](https://github.com/Anto-Merary/YATRA) | TypeScript |
-| [swot-ml-model](https://github.com/christhecreator56/swot-ml-model) | Python · ML |
+[![vnyl](https://img.shields.io/badge/⭐_vnyl-HTML-CC0000?style=for-the-badge&logoColor=white)](https://github.com/christhecreator56/vnyl)
+[![Project_AURA](https://img.shields.io/badge/Project__AURA-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/christhecreator56/Project_AURA)
+[![pannel_pro](https://img.shields.io/badge/pannel__pro-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/christhecreator56/pannel_pro)
+[![Sevagan](https://img.shields.io/badge/Sevagan-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/christhecreator56/Sevagan---Multilingual-service-app-)
+[![YATRA](https://img.shields.io/badge/YATRA-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Anto-Merary/YATRA)
+[![swot-ml-model](https://img.shields.io/badge/swot--ml--model-Python_·_ML-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/christhecreator56/swot-ml-model)
 
 ---
 
